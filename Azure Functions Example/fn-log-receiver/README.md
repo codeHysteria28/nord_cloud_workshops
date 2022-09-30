@@ -1,8 +1,7 @@
 # HTTP trigger based Azure Function - Javascript
 
 - Before running make sure you have the latest Azure Functions core tools installed 
-- As pushing node_modulesto GitHub is not a recommended practise, do a "npm install" to install
-  all the necessary modules
+- As pushing node_modules to GitHub is not a recommended practise, do a "npm install" to install all the necessary modules
 - Also if you want to develop locally you can get Azure VSCode extension
 
 # Function description
